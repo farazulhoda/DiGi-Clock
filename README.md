@@ -5,6 +5,7 @@ A Digital Clock, Developed Using Python and tkinter as pkg.
 ***************
 
 >> Thonny IDE 3.3.2+
+
 >> Python 2.7+
 
 ***************
