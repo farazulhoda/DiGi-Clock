@@ -1,5 +1,6 @@
 # DiGi Clock
-A Digital Clock, Developed Using Python and tkinter as pkg.
+A Digital Clock, Which Shows real-time time.
+This program is developed Using Python and tkinter as pkg.
 
 ![Screenshot-DigiClock](https://user-images.githubusercontent.com/42433776/105553411-51a9ee00-5d2b-11eb-90b9-4e46f83f3d1f.png)
 
