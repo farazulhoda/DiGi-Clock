@@ -1,12 +1,11 @@
 # Digital Clock Using Python
-# @farazul : imfaraz730@outlook.com
 
 from tkinter import *
 import time
 
 win = Tk()
 win.title("DiGi Clock : @MR-BiNARY")
-win.geometry("350x200")
+win.geometry("450x200")
 
 def digital_clock():
     time1 = time.strftime("%H:%M:%S")
